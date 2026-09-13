@@ -4,7 +4,7 @@ Historical-cultural-heritage posters with one dominant realistic subject, refere
 
 ## Using it
 
-Copy the complete folder to your agent's skills directory. Keep `references/` and `examples/` with `SKILL.md`. Fill `input-template.yaml` or supply the same information conversationally. The Skill automatically selects one of the bundled `references/layouts/R1.png` through `R4.png`, or you can name an ID explicitly.
+Copy the complete folder to your agent's skills directory. Keep `references/` and `examples/` with `SKILL.md`. Fill `input-template.yaml` or supply the same information conversationally. The Skill automatically selects one of the bundled `references/layouts/R1.jpg` through `R4.jpg`, or you can name an ID explicitly.
 
 The GitHub package is self-contained: all four layout masters, a text-only blueprint and a manifest are included. A new user only supplies their own heritage subject image(s) and copy. The bundled posters are composition-only masters, never source assets for unrelated subjects.
 
