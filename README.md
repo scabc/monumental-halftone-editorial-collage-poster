@@ -1,6 +1,10 @@
 # Monumental Halftone Editorial Collage Poster — 1.9.2
 
+English · [中文](README.zh-CN.md)
+
 Historical-cultural-heritage posters with one dominant realistic subject, reference-locked typography and irregular printed collage.
+
+> **License notice: non-commercial use only.** Paid client work, commercial products or services, advertising, brand campaigns, monetized content, paid courses, resale, and commercial redistribution are prohibited without prior written permission. See [LICENSE.md](LICENSE.md).
 
 ## Using it
 
@@ -26,4 +30,4 @@ Selected source crops, replacement copy, visibly processed auxiliary imagery, sm
 
 Original content fields remain replaceable. `reference_layout_id: auto` and `reference_image: auto-bundled` make the default portable. New controls remain optional: approved revision master, collage variation and ornament mode.
 
-No license is included. Review and add a license before granting reuse permissions.
+Licensed for non-commercial use only. See [LICENSE.md](LICENSE.md) for the complete bilingual terms.
