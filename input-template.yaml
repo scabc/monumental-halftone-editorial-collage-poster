@@ -1,0 +1,68 @@
+# Required
+hero_image: ""
+display_title: ""
+
+# Optional: leave empty to omit; never auto-fill
+local_title: ""
+plaque_image: ""
+
+support_images:
+  - ""
+  - ""
+  - ""
+
+series_name: ""
+location: ""
+keywords: ""
+tagline: ""
+body_copy: ""
+
+palette:
+  base_neutral: "auto-from-approved-sources"
+  dominant: "auto-from-approved-sources"
+  accent: "auto-from-approved-sources"
+  dark_anchor: "auto-from-approved-sources"
+
+surreal_element: ""
+
+# Optional composition controls. Leave empty for source-led preflight selection.
+# composition_route: diagonal-sweep | edge-hero-central-evidence | central-architectural-anchor
+composition_route: ""
+
+# Describe selected sources/crops and explicitly list supplied-but-unused candidates.
+source_selection: ""
+
+# auto selects from subject geometry, or set R1 | R2 | R3 | R4
+reference_layout_id: "auto"
+# bundled default resolves references/layouts/<selected-id>.png
+reference_image: "auto-bundled"
+approved_result_image: ""
+collage_variation: "subtle"
+ornament_mode: "source-derived"
+ornament_notes: ""
+
+# Describe one source-color field, its job, region, and approximate share; or omit.
+graphic_field: ""
+
+# exact-only | editorial-nonfactual | none
+copy_mode: "exact-only"
+
+# Required before generation. Coordinates use normalized x=0–100, y=0–100.
+layout_map:
+  text_zones:
+    display_title: ""
+    local_title: ""
+    support_copy_1: ""
+    support_copy_2: ""
+  image_zones:
+    hero: ""
+    structural_context: ""
+    evidence_1: ""
+    evidence_2: ""
+  paper_channels: ""
+  allowed_overlaps: ""
+  forbidden_crossings: ""
+  reference_structure_tolerance: "trace the selected reference; preserve typography ratios, hero territory, major image masses, overlap order, and negative-space pattern"
+
+# Rules, dividers, paper bars, wedges, masks, or numbering; each needs a zone and job.
+construction_devices: ""
