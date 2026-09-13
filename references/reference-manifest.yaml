@@ -1,0 +1,19 @@
+version: "1.9.2"
+purpose: "Bundled composition-only masters; never use as subject content."
+layouts:
+  R1:
+    file: "references/layouts/R1.jpg"
+    label: "long-diagonal-architecture"
+    select_for: "long wall, horizontal facade, corridor, diagonal sweep"
+  R2:
+    file: "references/layouts/R2.jpg"
+    label: "giant-edge-subject"
+    select_for: "face, statue, relief, mask, round carving, close-up"
+  R3:
+    file: "references/layouts/R3.jpg"
+    label: "axial-gate-or-tower"
+    select_for: "central gate, nested arches, tower, pagoda, axial building"
+  R4:
+    file: "references/layouts/R4.jpg"
+    label: "tall-center-right-figure"
+    select_for: "standing or seated figure, tall statue, stele, vertical object"
